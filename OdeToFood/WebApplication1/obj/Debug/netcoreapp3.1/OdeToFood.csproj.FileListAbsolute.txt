@@ -40,3 +40,4 @@ C:\Users\monik\source\repos\Asp.netCoreFundamentals\OdeToFood\WebApplication1\bi
 C:\Users\monik\source\repos\Asp.netCoreFundamentals\OdeToFood\WebApplication1\obj\Debug\netcoreapp3.1\OdeToFood.Views.pdb
 C:\Users\monik\source\repos\Asp.netCoreFundamentals\OdeToFood\WebApplication1\obj\Debug\netcoreapp3.1\OdeToFood.csproj.CopyComplete
 C:\Users\monik\source\repos\Asp.netCoreFundamentals\OdeToFood\WebApplication1\obj\Debug\netcoreapp3.1\OdeToFood.genruntimeconfig.cache
+C:\Users\monik\source\repos\Asp.netCoreFundamentals\OdeToFood\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs
