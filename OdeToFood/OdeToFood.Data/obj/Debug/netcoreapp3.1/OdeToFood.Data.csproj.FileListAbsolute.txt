@@ -10,3 +10,6 @@ C:\Users\monik\source\repos\Asp.netCoreFundamentals\OdeToFood\OdeToFood.Data\obj
 C:\Users\monik\source\repos\Asp.netCoreFundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.CopyComplete
 C:\Users\monik\source\repos\Asp.netCoreFundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.dll
 C:\Users\monik\source\repos\Asp.netCoreFundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.pdb
+C:\Users\monik\source\repos\Asp.netCoreFundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.runtimeconfig.json
+C:\Users\monik\source\repos\Asp.netCoreFundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.runtimeconfig.dev.json
+C:\Users\monik\source\repos\Asp.netCoreFundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.genruntimeconfig.cache
